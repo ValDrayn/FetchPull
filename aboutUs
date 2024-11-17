@@ -1,0 +1,4 @@
+git checkout -b branch1
+git hard reset
+git branch [nama]
+git push origin main
