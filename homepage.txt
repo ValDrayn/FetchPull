@@ -7,3 +7,4 @@ git pull origin main
 
 + Video pull request
 + Perubahan terbaru
++ Update
